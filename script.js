@@ -1,11 +1,12 @@
 function menjumlahkanDataArray(arr) {
-    let arrgit  = [2,3,5];
     let sum = 0;
+    let arr;
+    jumlah = 
 
     for (i = 0; i <= arr.length; i++) {
-        let jumlah = arr(i) += sum;
-        return jumlah;
+        arr(i) += sum;
+        
     }
 }
 
-console.log(jumlah);
+console.log(menjumlahkanDataArray(2,4,5));
