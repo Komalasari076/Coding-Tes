@@ -1,12 +1,12 @@
 function menjumlahkanDataArray(arr) {
-    
-    let sum = 0;
-    let 
 
-    for (i = 1; i < arr.length; i++) {
+    let arr = [1, 3, 5, 6];
+    let sum = 0;
+
+    for (i = 0; i < arr.length; i++) {
         sum += arr(i);
-        return arr(i);
+        return sum;
     }
 }
 
-console.log(menjumlahkanDataArray(2,4,5));
+console.log(menjumlahkanDataArray(arr));
