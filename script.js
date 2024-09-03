@@ -1,11 +1,11 @@
 function menjumlahkanDataArray(arr) {
+    
     let sum = 0;
-    let arr;
-    jumlah = 
+    let 
 
-    for (i = 0; i <= arr.length; i++) {
-        arr(i) += sum;
-        
+    for (i = 1; i < arr.length; i++) {
+        sum += arr(i);
+        return arr(i);
     }
 }
 
